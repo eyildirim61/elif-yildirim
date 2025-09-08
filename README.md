@@ -19,7 +19,7 @@ Currently exploring **Flask**, **Jinja2**, and **full-stack development**.
 ### Student Roommate Matching App
  **Tech:** JavaScript, SQL, Mobile/Web Development  
  Swipe-based app for student roommate matching with **chat integration**.  
- [**View Project →**](link_to_repo)
+ [**View Project →**](https://github.com/eyildirim61/roommate-app)
 
 ---
 
