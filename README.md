@@ -37,5 +37,5 @@ Currently exploring **Flask**, **Jinja2**, and **full-stack development**.
 ---
 
 ## Let's Connect!
-🌐 [LinkedIn](https://www.linkedin.com/in/elif-yıldırım-147652218)  
-📧 **eyildirim@binghamton.ed
+ [LinkedIn](https://www.linkedin.com/in/elif-yıldırım-147652218)  
+ **eyildirim@binghamton.edu
